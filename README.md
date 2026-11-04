@@ -23,7 +23,7 @@ Diseñar una ruta diferenciada de intermediación y acompañamiento financiero q
 ## Rutas de intervención
 - **Ruta 1:** Intermediación con entidades financieras.
 - **Ruta 2:** Fortalecimiento de capacidades financieras.
-    [ACT02](01_Formulacion/ISSUE 02/ACT-02_Identificacion_barreras_credito_formal.docx.pdf) 
+    [ACT02](01_Formulacion/) 
 - **Ruta 3:** Ahorro programado y acceso progresivo al crédito.
 
 ## Responsables principales
